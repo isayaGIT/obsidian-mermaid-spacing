@@ -138,7 +138,7 @@ var MermaidGlobalLayoutSettingTab = class extends import_obsidian.PluginSettingT
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h2", {
-      text: "Mermaid Global Layout"
+      text: "Mermaid Node Spacing"
     });
     containerEl.createEl("p", {
       text: "Equivalent to adding %%{init: {'flowchart': {'nodeSpacing': N, 'rankSpacing': M}}}%% to every Mermaid flowchart."

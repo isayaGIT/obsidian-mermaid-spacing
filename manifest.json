@@ -1,9 +1,9 @@
 {
   "id": "mermaid-spacing",
-  "name": "Mermaid Global Layout",
-  "version": "1.0.0",
+  "name": "Mermaid Node Spacing",
+  "version": "1.0.1",
   "minAppVersion": "1.5.0",
-  "description": "Apply global Mermaid flowchart layout settings.",
+  "description": "Globally adjust Mermaid flowchart node and rank spacing.",
   "author": "isaya",
   "isDesktopOnly": false
 }

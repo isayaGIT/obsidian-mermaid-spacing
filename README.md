@@ -1,6 +1,6 @@
-# Mermaid Global Layout
+# Mermaid Node Spacing
 
-An [Obsidian](https://obsidian.md/) plugin that applies **global flowchart spacing** to every Mermaid diagram in your vault — no need to repeat `%%{init: ...}%%` in each code block.
+An [Obsidian](https://obsidian.md/) plugin that **globally adjusts Mermaid flowchart node and rank spacing** in every diagram — no need to repeat `%%{init: ...}%%` in each code block.
 
 ## Before & After
 
@@ -22,7 +22,7 @@ flowchart TD
 
 ## Settings
 
-Open **Settings → Community plugins → Mermaid Global Layout**:
+Open **Settings → Community plugins → Mermaid Node Spacing**:
 
 | Setting       | Description                                      | Plugin default | Mermaid default |
 |---------------|--------------------------------------------------|----------------|-----------------|
@@ -37,7 +37,7 @@ Changes apply immediately and re-render open Markdown preview panes.
 
 1. Download or clone this repo.
 2. Copy the `mermaid-spacing` folder into your vault's `.obsidian/plugins/` directory.
-3. Enable **Mermaid Global Layout** under **Settings → Community plugins**.
+3. Enable **Mermaid Node Spacing** under **Settings → Community plugins**.
 4. Reload Obsidian if prompted.
 
 Your folder should look like:
