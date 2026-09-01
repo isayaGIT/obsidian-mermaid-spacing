@@ -60,7 +60,7 @@ If you have the TypeScript source, build with your usual Obsidian plugin toolcha
 
 ## License
 
-MIT (or your preferred license — update as needed)
+[MIT](LICENSE)
 
 ## Author
 
